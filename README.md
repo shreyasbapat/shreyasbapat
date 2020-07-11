@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: poliastro, einsteinpy
+- 🌱 I’m currently learning: Golang
+- 🤔 I’m looking for help with: AMR on EinsteinPy
+- 💬 Ask me about: Code, India and Google Borg(I'm obsessed with it)
+- 📫 How to reach me: hello@shreyasb.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Scipy is a cool conference!
+
 <!--
 **shreyasbapat/shreyasbapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
