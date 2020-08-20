@@ -1,12 +1,20 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Shreyas Bapat</h3>
+<p align="center">
+  <a href="https://shreyasb.com">Website</a> •
+  <a href="https://twitter.com/astroshreyas">Twitter</a> •
+  <a href="https://linkedin.com/in/shreyasbapat">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on: poliastro, einsteinpy
-- 🌱 I’m currently learning: Golang
-- 🤔 I’m looking for help with: AMR on EinsteinPy
-- 💬 Ask me about: Code, India and Google Borg(I'm obsessed with it)
-- 📫 How to reach me: hello@shreyasb.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Scipy is a cool conference!
+---
+✨ I'm a software engineer and founder of a startup based in Bangalore, India. I’m passionate about wide variety of computer science topics, but whenever I am able to ramp up the performance of some code, I feel awesome. I am also an advocate for building, fostering and supporting open-source projects. 
+
+I’m also a big advocate for building open and inclusive communities which led me to make the EinsteinPy Project community a better place to be in. I'm a software engineer in a cloud based company in Singapore. I like to payback to the society, so I am also contributing to some organisations which work on similar lines. When I'm not coding you can find me gazing stars using my telescope 🔭.
+
+- 😄 My Pronouns: He/Him/His   
+- 💬 Ask me about: Python, Golang, Kubernetes (these days :p)
+- 📫 How to reach me: [@astroshreyas](https://twitter.com/astroshreyas)
+- ⚡ Fun fact: 0.1 + 0.2 is not 0.3, its 0.30000000000000004
+
 
 <!--
 **shreyasbapat/shreyasbapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
