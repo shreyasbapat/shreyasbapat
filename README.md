@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a software engineer in a cloud based company in Singapore, and founder of a startup based in Bangalore, India. I’m passionate about wide variety of computer science topics, but whenever I am able to ramp up the performance of some code, I feel awesome. I am also an advocate for building, fostering and supporting open-source projects. 
+✨ I'm a software engineer (R&D) in [Semut](https://semut.io), and founder of a startup based in Bangalore, India. I’m passionate about wide variety of computer science topics, but I like to work on performance aspect of stuff. I am also an advocate for building, fostering and supporting open-source projects. 
 
 I’m also a big advocate for building open and inclusive communities which led me to make the EinsteinPy Project community a better place to be in. I like to payback to the society, so I am also contributing to some organisations which work on similar lines. When I'm not coding you can find me gazing stars using my telescope 🔭.
 
