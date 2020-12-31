@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Shreyas Bapat</h3>
 <p align="center">
   <a href="https://shreyasb.com">Website</a> •
-  <a href="https://twitter.com/astroshreyas">Twitter</a> •
+  <a href="https://twitter.com/shreyasb94">Twitter</a> •
   <a href="https://linkedin.com/in/shreyasbapat">LinkedIn</a>
 </p>
 
@@ -12,7 +12,7 @@ I’m also a big advocate for building open and inclusive communities which led 
 
 - 😄 My Pronouns: He/Him/His   
 - 💬 Ask me about: Python, Golang, Kubernetes, Ceph
-- 📫 How to reach me: [@astroshreyas](https://twitter.com/astroshreyas)
+- 📫 How to reach me: [@shreyasb94](https://twitter.com/shreyasb94)
 - ⚡ Fun fact: 0.1 + 0.2 is not 0.3, its 0.30000000000000004
 
 
