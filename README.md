@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Shreyas Bapat</h3>
 <p align="center">
   <a href="https://shreyasb.com">Website</a> •
-  <a href="https://twitter.com/shreyasb94">Twitter</a> •
+  <a href="https://twitter.com/0xShreyas">Twitter</a> •
   <a href="https://linkedin.com/in/shreyasbapat">LinkedIn</a>
 </p>
 
