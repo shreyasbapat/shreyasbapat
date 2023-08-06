@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Shreyas Bapat</h3>
 <p align="center">
   <a href="https://shreyasb.com">Website</a> •
-  <a href="https://twitter.com/0xShreyas">Twitter</a> •
+  <a href="https://twitter.com/shreyasb94">X</a> •
   <a href="https://linkedin.com/in/shreyasbapat">LinkedIn</a>
 </p>
 
@@ -11,8 +11,8 @@
 I’m also a big advocate for building open and inclusive communities which led me to make the EinsteinPy Project community a better place to be in. I like to payback to the society, so I am also contributing to some organisations which work on similar lines. When I'm not coding you can find me gazing stars using my telescope 🔭.
 
 - 😄 My Pronouns: He/Him/His   
-- 💬 Ask me about: Python, Golang, Kubernetes, Ceph
-- 📫 How to reach me: [@0xShreyas](https://twitter.com/shreyasb94)
+- 💬 Ask me about: Java, Python, Golang, Springboot, Kubernetes, Ceph
+- 📫 How to reach me: [@shreyasb94](https://twitter.com/shreyasb94)
 - ⚡ Fun fact: 0.1 + 0.2 is not 0.3, its 0.30000000000000004
 
 
