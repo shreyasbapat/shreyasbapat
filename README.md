@@ -6,12 +6,8 @@
 </p>
 
 ---
-✨ I'm a software engineer and I love building products. I’m passionate about wide variety of computer science topics, but I like to work on performance aspect of stuff. I am also an advocate for building, fostering and supporting open-source projects. 
+✨ I'm a software engineer and I love building products. When I'm not coding you can find me gazing stars using my telescope 🔭.
 
-I’m also a big advocate for building open and inclusive communities which led me to make the EinsteinPy Project community a better place to be in. I like to payback to the society, so I am also contributing to some organisations which work on similar lines. When I'm not coding you can find me gazing stars using my telescope 🔭.
-
-- 😄 My Pronouns: He/Him/His   
-- 💬 Ask me about: Java, Python, Golang, Springboot, Kubernetes, Ceph
 - 📫 How to reach me: [@shreyasb94](https://twitter.com/shreyasb94)
 - ⚡ Fun fact: 0.1 + 0.2 is not 0.3, its 0.30000000000000004
 
