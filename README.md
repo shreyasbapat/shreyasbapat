@@ -8,7 +8,7 @@
 ---
 ✨ I'm a software engineer and I love building products. When I'm not coding you can find me gazing stars using my telescope 🔭.
 
-- 📫 How to reach me: [@shreyasb94](https://twitter.com/shreyasb94)
+- 📫 How to reach me: [@shreyasb94](https://x.com/shreyasb94)
 - ⚡ Fun fact: 0.1 + 0.2 is not 0.3, its 0.30000000000000004
 
 
